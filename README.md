@@ -1,6 +1,6 @@
 # ジオメトリエンジニアの複雑形状建築探訪#1 「YANMAR TOKYO」  
 
-vicc blog の記事内で作成したデータです。 
+vicc blog の記事内で作成したデータです。  
 [https://blog.vicc.jp/entry/visiting-geometric-architecture-1](https://blog.vicc.jp/entry/visiting-geometric-architecture-1)  
 
 
